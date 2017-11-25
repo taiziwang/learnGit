@@ -2,3 +2,4 @@
 2.scala
 3.git
 4.hadoop
+5.git clone
